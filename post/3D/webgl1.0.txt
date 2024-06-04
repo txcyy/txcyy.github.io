@@ -1,0 +1,170 @@
+3:I[9275,[],""]
+6:I[1343,[],""]
+7:I[9512,["257","static/chunks/257-d6408e43d3a4c1f7.js","231","static/chunks/231-75c2bb16e5311c25.js","185","static/chunks/app/layout-5aac403eda8ffac1.js"],"ThemeProvider"]
+8:I[9890,["257","static/chunks/257-d6408e43d3a4c1f7.js","231","static/chunks/231-75c2bb16e5311c25.js","185","static/chunks/app/layout-5aac403eda8ffac1.js"],"ColorProvider"]
+9:I[1998,["257","static/chunks/257-d6408e43d3a4c1f7.js","231","static/chunks/231-75c2bb16e5311c25.js","185","static/chunks/app/layout-5aac403eda8ffac1.js"],"default"]
+a:I[3408,["257","static/chunks/257-d6408e43d3a4c1f7.js","231","static/chunks/231-75c2bb16e5311c25.js","185","static/chunks/app/layout-5aac403eda8ffac1.js"],"ColorToggle"]
+b:I[6345,["257","static/chunks/257-d6408e43d3a4c1f7.js","231","static/chunks/231-75c2bb16e5311c25.js","185","static/chunks/app/layout-5aac403eda8ffac1.js"],"ThemeToggle"]
+c:I[7970,["257","static/chunks/257-d6408e43d3a4c1f7.js","231","static/chunks/231-75c2bb16e5311c25.js","185","static/chunks/app/layout-5aac403eda8ffac1.js"],"NavToggle"]
+4:["category","3D","d"]
+5:["title","webgl1.0","d"]
+0:["GB6GWdwB48S_6jQAbWqVr",[[["",{"children":["post",{"children":[["category","3D","d"],{"children":[["title","webgl1.0","d"],{"children":["__PAGE__?{\"category\":\"3D\",\"title\":\"webgl1.0\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":["post",{"children":[["category","3D","d"],{"children":[["title","webgl1.0","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","post","children","$4","children","$5","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/2715c8fee6b9b9b3.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","post","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","post","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"min-h-screen bg-background font-sans antialiased __variable_aaf875","children":["$","$L7",null,{"attribute":"class","defaultTheme":"system","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L8",null,{"children":[["$","header",null,{"className":"sticky top-0 z-50 w-full border-b border-primary/40 bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60","children":["$","div",null,{"className":"container flex h-14 max-w-screen-2xl items-center justify-between","children":[["$","div",null,{"className":"mr-4 flex","children":[["$","a",null,{"className":"mr-6 flex items-center space-x-2","href":"/","children":[["$","span",null,{"className":"inline-block w-8 h-8","children":["$","svg",null,{"viewBox":"0 0 64 64","children":["$","g",null,{"fill":"none","fillRule":"evenodd","children":[["$","circle",null,{"cx":32,"cy":32,"r":26,"fill":"hsl(var(--primary))"}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","xmlnsXlink":"http://www.w3.org/1999/xlink","width":26,"height":26,"x":19,"y":10,"viewBox":"0 0 24 24","children":["$","path",null,{"fill":"hsl(var(--background))","d":"M5.438 2c-.512 0-1.02.203-1.407.594L2.594 4.03a1.987 1.987 0 0 0 0 2.813l2.125 2.125C3.977 10.46 3.207 12.016 3 12.375c-.469.813-1 1.617-1 2.625 0 1.473.805 2.746 2 3.438.184.105 4.188 2.906 4.188 2.906h.03C8.896 21.75 9.66 22 10.5 22h3c.832 0 1.613-.223 2.281-.625.38-.227 4.031-2.664 5.219-3.75.688-.633 1-1.621 1-2.625s-.414-1.754-1-2.625c-.277-.43-1.023-1.96-1.719-3.406l2.125-2.125a1.987 1.987 0 0 0 0-2.813L19.97 2.594a1.987 1.987 0 0 0-2.813 0l-1.5 1.5A2.2 2.2 0 0 0 15 4H9a2.8 2.8 0 0 0-.656.094l-1.5-1.5A1.98 1.98 0 0 0 5.437 2M9.5 10a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3m5 0a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3M12 13.813c.395 0 .79.054 1 .187.95.59 3 2.883 3 4 0 .559-1.328 1.781-2 2-.953.309-3.047.309-4 0-.672-.219-2-1.441-2-2 0-1.117 2.05-3.41 3-4 .21-.133.605-.187 1-.187M11 17c-.363 0-.57.43-.312.688l1.03 1.218c.16.16.403.16.563 0l1.031-1.218C13.57 17.43 13.364 17 13 17Z"}]}],["$","text",null,{"fill":"hsl(var(--background))","data-text-alignment":"C","fontFamily":"Fira Mono","fontSize":14,"fontWeight":700,"letterSpacing":0.81,"transform":"translate(-4 33)","children":["$","tspan",null,{"x":17.07,"y":17,"children":"XCYY"}]}],["$","circle",null,{"cx":32,"cy":32,"r":30,"stroke":"hsl(var(--primary))","strokeWidth":2}]]}]}]}],["$","span",null,{"className":"text-primary","children":"新宸悦雨"}]]}],["$","$L9",null,{}]]}],["$","nav",null,{"className":"flex items-center space-x-2","children":[["$","$La",null,{}],["$","$Lb",null,{}],["$","div",null,{"className":"md:hidden","children":["$","$Lc",null,{}]}]]}]]}]}],["$","main",null,{"className":"container max-w-screen-2xl py-6","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]]}]}]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f8ad259a7d5c0bf2.css","precedence":"next","crossOrigin":"$undefined"}]],"$Ld"]]]]
+e:I[789,["257","static/chunks/257-d6408e43d3a4c1f7.js","472","static/chunks/app/post/%5Bcategory%5D/%5Btitle%5D/page-bb1b5c27d30bc491.js"],"default"]
+f:T3140,
+<h2 id="webgl-基础概念">WebGL 基础概念</h2>
+<p>WebGL仅仅是一个光栅化引擎，它可以根据你的代码绘制出点，线和三角形。想要利用WebGL完成更复杂任务，取决于你能否提供合适的代码，组合使用点，线和三角形代替实现。</p>
+<p>WebGL在电脑的GPU中运行，因此需要使用能够在GPU上运行的代码，一种和C或C++类似的强类型的语言 GLSL (GL着色语言)。</p>
+<h3 id="glsl">GLSL</h3>
+<p>这样的代码需要提供成对的方法，每对方法中一个叫顶点着色器， 另一个叫片段着色器， 每一对组合起来称作一个 <em>program</em>（着色程序）。</p>
+<p>顶点着色器的作用是计算顶点的位置。根据计算出的一系列顶点位置，WebGL可以对点， 线和三角形在内的一些图元进行光栅化处理。当对这些图元进行光栅化处理时需要使用片段着色器方法。</p>
+<p>片段着色器的作用是计算出当前绘制图元中每个像素的颜色值。</p>
+<p>几乎整个WebGL API都是关于如何设置这些成对方法的状态值以及运行它们。</p>
+<h3 id="裁剪空间">裁剪空间</h3>
+<p>WebGL只关心两件事：裁剪空间中的坐标值和颜色值。</p>
+<p>无论你的画布有多大，裁剪空间的坐标范围永远是 -1 到 1 。</p>
+<pre><code class="hljs language-js">&#x3C;script id=<span class="hljs-string">"vertex-shader-2d"</span> type=<span class="hljs-string">"notjs"</span>>
+    
+  attribute vec2 a_position;
+ 
+  uniform vec2 u_resolution;
+ 
+  <span class="hljs-keyword">void</span> <span class="hljs-title function_">main</span>(<span class="hljs-params"></span>) {
+    <span class="hljs-comment">// 从像素坐标转换到 0.0 到 1.0</span>
+    vec2 zeroToOne = a_position / u_resolution;
+ 
+    <span class="hljs-comment">// 再把 0->1 转换 0->2</span>
+    vec2 zeroToTwo = zeroToOne * <span class="hljs-number">2.0</span>;
+ 
+    <span class="hljs-comment">// 把 0->2 转换到 -1->+1 (裁剪空间)</span>
+    vec2 clipSpace = zeroToTwo - <span class="hljs-number">1.0</span>;
+ 
+    <span class="hljs-comment">// gl_Position = vec4(clipSpace, 0, 1);</span>
+    <span class="hljs-comment">// WebGL认为左下角是 0，0 。 想要像传统二维API那样起点在左上角，我们需要翻转y轴</span>
+    gl_Position = <span class="hljs-title function_">vec4</span>(clipSpace * <span class="hljs-title function_">vec2</span>(<span class="hljs-number">1</span>, -<span class="hljs-number">1</span>), <span class="hljs-number">0</span>, <span class="hljs-number">1</span>);
+  }
+ 
+&#x3C;/script>
+</code></pre>
+<h3 id="创建着色器程序">创建着色器程序</h3>
+<h4 id="创建着色器代码的方式">创建着色器代码的方式</h4>
+<p>有几种方式创建着色器代码：用串联的方式（即代码字符串）， 用AJAX下载，用多行模板数据、放在非JavaScript类型的标签中（对 <code>type</code> 有其它除<code>javascript</code>以外的任何定义，浏览器会忽略script标签的内容）。</p>
+<pre><code class="hljs language-js"><span class="hljs-comment">// 串联方式</span>
+<span class="hljs-keyword">const</span> code = <span class="hljs-string">'code1'</span> + <span class="hljs-string">'code2'</span>
+
+<span class="hljs-comment">// ajax下载方式</span>
+<span class="hljs-keyword">const</span> code = <span class="hljs-keyword">await</span> <span class="hljs-title function_">fetch</span>(<span class="hljs-string">'codeapi'</span>)
+
+<span class="hljs-comment">// 多行模板</span>
+cosnt code = <span class="hljs-string">`
+	code1
+	code2
+`</span>
+
+<span class="hljs-comment">// 放在非js类型的标签中</span>
+<span class="hljs-comment">//&#x3C;script id="vertex-shader-2d" type="notjs"></span>
+ 
+  <span class="hljs-comment">// 一个属性变量，将会从缓冲中获取数据</span>
+  attribute vec4 a_position;
+ 
+  <span class="hljs-comment">// 所有着色器都有一个main方法</span>
+  <span class="hljs-keyword">void</span> <span class="hljs-title function_">main</span>(<span class="hljs-params"></span>) {
+ 
+    <span class="hljs-comment">// gl_Position 是一个顶点着色器主要设置的变量</span>
+    gl_Position = a_position;
+  }
+ 
+<span class="hljs-comment">//&#x3C;/script></span>
+</code></pre>
+<h4 id="创建着色器">创建着色器</h4>
+<pre><code class="hljs language-js"><span class="hljs-comment">// 创建着色器方法，输入参数：渲染上下文，着色器类型，数据源</span>
+<span class="hljs-keyword">function</span> <span class="hljs-title function_">createShader</span>(<span class="hljs-params">gl, type, source</span>) {
+  <span class="hljs-keyword">var</span> shader = gl.<span class="hljs-title function_">createShader</span>(type); <span class="hljs-comment">// 创建着色器对象</span>
+  gl.<span class="hljs-title function_">shaderSource</span>(shader, source); <span class="hljs-comment">// 提供数据源</span>
+  gl.<span class="hljs-title function_">compileShader</span>(shader); <span class="hljs-comment">// 编译 -> 生成着色器</span>
+  <span class="hljs-keyword">var</span> success = gl.<span class="hljs-title function_">getShaderParameter</span>(shader, gl.<span class="hljs-property">COMPILE_STATUS</span>);
+  <span class="hljs-keyword">if</span> (success) {
+    <span class="hljs-keyword">return</span> shader;
+  }
+ 
+  <span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(gl.<span class="hljs-title function_">getShaderInfoLog</span>(shader));
+  gl.<span class="hljs-title function_">deleteShader</span>(shader);
+}
+</code></pre>
+<h4 id="创建程序链接着色器">创建程序链接着色器</h4>
+<pre><code class="hljs language-js"><span class="hljs-keyword">function</span> <span class="hljs-title function_">createProgram</span>(<span class="hljs-params">gl, vertexShader, fragmentShader</span>) {
+  <span class="hljs-keyword">var</span> program = gl.<span class="hljs-title function_">createProgram</span>();
+  gl.<span class="hljs-title function_">attachShader</span>(program, vertexShader);
+  gl.<span class="hljs-title function_">attachShader</span>(program, fragmentShader);
+  gl.<span class="hljs-title function_">linkProgram</span>(program);
+  <span class="hljs-keyword">var</span> success = gl.<span class="hljs-title function_">getProgramParameter</span>(program, gl.<span class="hljs-property">LINK_STATUS</span>);
+  <span class="hljs-keyword">if</span> (success) {
+    <span class="hljs-keyword">return</span> program;
+  }
+ 
+  <span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(gl.<span class="hljs-title function_">getProgramInfoLog</span>(program));
+  gl.<span class="hljs-title function_">deleteProgram</span>(program);
+}
+</code></pre>
+<h3 id="着色器获取数据的4种方法">着色器获取数据的4种方法</h3>
+<ol>
+<li>
+<p>属性（Attributes）和缓冲</p>
+<p>缓冲是发送到GPU的一些二进制数据序列，通常情况下缓冲数据包括位置，法向量，纹理坐标，顶点颜色值等。 你可以存储任何数据。</p>
+<p>属性用来指明怎么从缓冲中获取所需数据并将它提供给顶点着色器。 例如你可能在缓冲中用三个32位的浮点型数据存储一个位置值。 对于一个确切的属性你需要告诉它从哪个缓冲中获取数据，获取什么类型的数据（三个32位的浮点数据）， 起始偏移值是多少，到下一个位置的字节数是多少。</p>
+<p>缓冲不是随意读取的。事实上顶点着色器运行的次数是一个指定的确切数字， 每一次运行属性会从指定的缓冲中按照指定规则依次获取下一个值。</p>
+<pre><code class="hljs language-js"><span class="hljs-comment">// -------------------初始化---------------------------</span>
+<span class="hljs-comment">// 寻找属性值位置（和全局属性位置）应该在初始化的时候完成，而不是在渲染循环中</span>
+<span class="hljs-keyword">var</span> positionAttributeLocation = gl.<span class="hljs-title function_">getAttribLocation</span>(program, <span class="hljs-string">"a_position"</span>);
+
+<span class="hljs-comment">// 属性值从缓冲中获取数据，所以我们创建一个缓冲</span>
+<span class="hljs-keyword">var</span> positionBuffer = gl.<span class="hljs-title function_">createBuffer</span>();
+
+<span class="hljs-comment">// WebGL可以通过绑定点操控全局范围内的许多数据，你可以把绑定点想象成一个WebGL内部的全局变量。 首先绑定一个数据源到绑定点，然后可以引用绑定点指向该数据源。 所以让我们来绑定位置信息缓冲（下面的绑定点就是ARRAY_BUFFER）。</span>
+gl.<span class="hljs-title function_">bindBuffer</span>(gl.<span class="hljs-property">ARRAY_BUFFER</span>, positionBuffer);
+
+<span class="hljs-comment">// 现在我们需要通过绑定点向缓冲中存放数据</span>
+<span class="hljs-comment">// 三个二维点坐标</span>
+<span class="hljs-keyword">var</span> positions = [
+  <span class="hljs-number">0</span>, <span class="hljs-number">0</span>,
+  <span class="hljs-number">0</span>, <span class="hljs-number">0.5</span>,
+  <span class="hljs-number">0.7</span>, <span class="hljs-number">0</span>,
+];
+gl.<span class="hljs-title function_">bufferData</span>(gl.<span class="hljs-property">ARRAY_BUFFER</span>, <span class="hljs-keyword">new</span> <span class="hljs-title class_">Float32Array</span>(positions), gl.<span class="hljs-property">STATIC_DRAW</span>);
+
+<span class="hljs-comment">// -------------------渲染---------------------------</span>
+<span class="hljs-comment">// 启用属性</span>
+gl.<span class="hljs-title function_">enableVertexAttribArray</span>(positionAttributeLocation);
+
+<span class="hljs-comment">// 从缓冲中读取数据</span>
+<span class="hljs-comment">// 告诉属性怎么从positionBuffer中读取数据 (ARRAY_BUFFER)</span>
+<span class="hljs-keyword">var</span> size = <span class="hljs-number">2</span>;          <span class="hljs-comment">// 每次迭代运行提取两个单位数据</span>
+<span class="hljs-keyword">var</span> type = gl.<span class="hljs-property">FLOAT</span>;   <span class="hljs-comment">// 每个单位的数据类型是32位浮点型</span>
+<span class="hljs-keyword">var</span> normalize = <span class="hljs-literal">false</span>; <span class="hljs-comment">// 不需要归一化数据</span>
+<span class="hljs-keyword">var</span> stride = <span class="hljs-number">0</span>;        <span class="hljs-comment">// 0 = 移动单位数量 * 每个单位占用内存（sizeof(type)）</span>
+                       <span class="hljs-comment">// 每次迭代运行运动多少内存到下一个数据开始点</span>
+<span class="hljs-keyword">var</span> offset = <span class="hljs-number">0</span>;        <span class="hljs-comment">// 从缓冲起始位置开始读取</span>
+gl.<span class="hljs-title function_">vertexAttribPointer</span>(
+    positionAttributeLocation, size, type, normalize, stride, offset)
+</code></pre>
+</li>
+<li>
+<p>全局变量（Uniforms）</p>
+<p>全局变量在着色程序运行前赋值，在运行过程中全局有效。</p>
+<pre><code class="hljs language-js"><span class="hljs-comment">// 寻找全局属性位置</span>
+<span class="hljs-keyword">var</span> resolutionUniformLocation = gl.<span class="hljs-title function_">getUniformLocation</span>(program, <span class="hljs-string">"u_resolution"</span>);
+
+<span class="hljs-comment">// 设置全局变量 所有类似gl.uniformXXX格式的方法都是设置当前着色程序的全局变量</span>
+gl.<span class="hljs-title function_">uniform2f</span>(resolutionUniformLocation, gl.<span class="hljs-property">canvas</span>.<span class="hljs-property">width</span>, gl.<span class="hljs-property">canvas</span>.<span class="hljs-property">height</span>);
+</code></pre>
+</li>
+<li>
+<p>纹理（Textures）</p>
+<p>纹理是一个数据序列，可以在着色程序运行中随意读取其中的数据。 大多数情况存放的是图像数据，但是纹理仅仅是数据序列， 你也可以随意存放除了颜色数据以外的其它数据。</p>
+</li>
+<li>
+<p>可变量（Varyings）</p>
+<p>可变量是一种顶点着色器给片段着色器传值的方式，依照渲染的图元是点， 线还是三角形，顶点着色器中设置的可变量会在片段着色器运行中获取不同的插值。</p>
+</li>
+</ol>2:["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-semibold","children":"webgl1.0"}],["$","div",null,{"className":"fixed right-12 bottom-20 ","children":["$","$Le",null,{"toc":"\n<ul>\n<li><a href=\"#webgl-%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5\">WebGL 基础概念</a>\n<ul>\n<li><a href=\"#glsl\">GLSL</a></li>\n<li><a href=\"#%E8%A3%81%E5%89%AA%E7%A9%BA%E9%97%B4\">裁剪空间</a></li>\n<li><a href=\"#%E5%88%9B%E5%BB%BA%E7%9D%80%E8%89%B2%E5%99%A8%E7%A8%8B%E5%BA%8F\">创建着色器程序</a>\n<ul>\n<li><a href=\"#%E5%88%9B%E5%BB%BA%E7%9D%80%E8%89%B2%E5%99%A8%E4%BB%A3%E7%A0%81%E7%9A%84%E6%96%B9%E5%BC%8F\">创建着色器代码的方式</a></li>\n<li><a href=\"#%E5%88%9B%E5%BB%BA%E7%9D%80%E8%89%B2%E5%99%A8\">创建着色器</a></li>\n<li><a href=\"#%E5%88%9B%E5%BB%BA%E7%A8%8B%E5%BA%8F%E9%93%BE%E6%8E%A5%E7%9D%80%E8%89%B2%E5%99%A8\">创建程序链接着色器</a></li>\n</ul>\n</li>\n<li><a href=\"#%E7%9D%80%E8%89%B2%E5%99%A8%E8%8E%B7%E5%8F%96%E6%95%B0%E6%8D%AE%E7%9A%844%E7%A7%8D%E6%96%B9%E6%B3%95\">着色器获取数据的4种方法</a></li>\n</ul>\n</li>\n</ul>"}]}],["$","div",null,{"className":"page_content__nM6Lc","dangerouslySetInnerHTML":{"__html":"$f"}}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"文章 | webgl1.0"}],["$","meta","3",{"name":"description","content":"新宸悦雨 博客 网站 个人网站"}],["$","meta","4",{"name":"google-site-verification","content":"LiZ4kQwHGTLadwCnDnrXngpwNqoQjmFOCOVTtr_PWVo"}],["$","link","5",{"rel":"icon","href":"/icon.svg?d2cf70afa15ddfd8","type":"image/svg+xml","sizes":"any"}]]
+1:null

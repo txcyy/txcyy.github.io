@@ -1,0 +1,99 @@
+3:I[9275,[],""]
+6:I[1343,[],""]
+7:I[9512,["257","static/chunks/257-d6408e43d3a4c1f7.js","231","static/chunks/231-75c2bb16e5311c25.js","185","static/chunks/app/layout-5aac403eda8ffac1.js"],"ThemeProvider"]
+8:I[9890,["257","static/chunks/257-d6408e43d3a4c1f7.js","231","static/chunks/231-75c2bb16e5311c25.js","185","static/chunks/app/layout-5aac403eda8ffac1.js"],"ColorProvider"]
+9:I[1998,["257","static/chunks/257-d6408e43d3a4c1f7.js","231","static/chunks/231-75c2bb16e5311c25.js","185","static/chunks/app/layout-5aac403eda8ffac1.js"],"default"]
+a:I[3408,["257","static/chunks/257-d6408e43d3a4c1f7.js","231","static/chunks/231-75c2bb16e5311c25.js","185","static/chunks/app/layout-5aac403eda8ffac1.js"],"ColorToggle"]
+b:I[6345,["257","static/chunks/257-d6408e43d3a4c1f7.js","231","static/chunks/231-75c2bb16e5311c25.js","185","static/chunks/app/layout-5aac403eda8ffac1.js"],"ThemeToggle"]
+c:I[7970,["257","static/chunks/257-d6408e43d3a4c1f7.js","231","static/chunks/231-75c2bb16e5311c25.js","185","static/chunks/app/layout-5aac403eda8ffac1.js"],"NavToggle"]
+4:["category","web--js","d"]
+5:["title","%E4%BD%8D%E8%BF%90%E7%AE%97%E7%AC%A6","d"]
+0:["GB6GWdwB48S_6jQAbWqVr",[[["",{"children":["post",{"children":[["category","web--js","d"],{"children":[["title","%E4%BD%8D%E8%BF%90%E7%AE%97%E7%AC%A6","d"],{"children":["__PAGE__?{\"category\":\"web--js\",\"title\":\"位运算符\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":["post",{"children":[["category","web--js","d"],{"children":[["title","%E4%BD%8D%E8%BF%90%E7%AE%97%E7%AC%A6","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","post","children","$4","children","$5","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/2715c8fee6b9b9b3.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","post","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","post","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"min-h-screen bg-background font-sans antialiased __variable_aaf875","children":["$","$L7",null,{"attribute":"class","defaultTheme":"system","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L8",null,{"children":[["$","header",null,{"className":"sticky top-0 z-50 w-full border-b border-primary/40 bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60","children":["$","div",null,{"className":"container flex h-14 max-w-screen-2xl items-center justify-between","children":[["$","div",null,{"className":"mr-4 flex","children":[["$","a",null,{"className":"mr-6 flex items-center space-x-2","href":"/","children":[["$","span",null,{"className":"inline-block w-8 h-8","children":["$","svg",null,{"viewBox":"0 0 64 64","children":["$","g",null,{"fill":"none","fillRule":"evenodd","children":[["$","circle",null,{"cx":32,"cy":32,"r":26,"fill":"hsl(var(--primary))"}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","xmlnsXlink":"http://www.w3.org/1999/xlink","width":26,"height":26,"x":19,"y":10,"viewBox":"0 0 24 24","children":["$","path",null,{"fill":"hsl(var(--background))","d":"M5.438 2c-.512 0-1.02.203-1.407.594L2.594 4.03a1.987 1.987 0 0 0 0 2.813l2.125 2.125C3.977 10.46 3.207 12.016 3 12.375c-.469.813-1 1.617-1 2.625 0 1.473.805 2.746 2 3.438.184.105 4.188 2.906 4.188 2.906h.03C8.896 21.75 9.66 22 10.5 22h3c.832 0 1.613-.223 2.281-.625.38-.227 4.031-2.664 5.219-3.75.688-.633 1-1.621 1-2.625s-.414-1.754-1-2.625c-.277-.43-1.023-1.96-1.719-3.406l2.125-2.125a1.987 1.987 0 0 0 0-2.813L19.97 2.594a1.987 1.987 0 0 0-2.813 0l-1.5 1.5A2.2 2.2 0 0 0 15 4H9a2.8 2.8 0 0 0-.656.094l-1.5-1.5A1.98 1.98 0 0 0 5.437 2M9.5 10a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3m5 0a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3M12 13.813c.395 0 .79.054 1 .187.95.59 3 2.883 3 4 0 .559-1.328 1.781-2 2-.953.309-3.047.309-4 0-.672-.219-2-1.441-2-2 0-1.117 2.05-3.41 3-4 .21-.133.605-.187 1-.187M11 17c-.363 0-.57.43-.312.688l1.03 1.218c.16.16.403.16.563 0l1.031-1.218C13.57 17.43 13.364 17 13 17Z"}]}],["$","text",null,{"fill":"hsl(var(--background))","data-text-alignment":"C","fontFamily":"Fira Mono","fontSize":14,"fontWeight":700,"letterSpacing":0.81,"transform":"translate(-4 33)","children":["$","tspan",null,{"x":17.07,"y":17,"children":"XCYY"}]}],["$","circle",null,{"cx":32,"cy":32,"r":30,"stroke":"hsl(var(--primary))","strokeWidth":2}]]}]}]}],["$","span",null,{"className":"text-primary","children":"新宸悦雨"}]]}],["$","$L9",null,{}]]}],["$","nav",null,{"className":"flex items-center space-x-2","children":[["$","$La",null,{}],["$","$Lb",null,{}],["$","div",null,{"className":"md:hidden","children":["$","$Lc",null,{}]}]]}]]}]}],["$","main",null,{"className":"container max-w-screen-2xl py-6","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]]}]}]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f8ad259a7d5c0bf2.css","precedence":"next","crossOrigin":"$undefined"}]],"$Ld"]]]]
+e:I[789,["257","static/chunks/257-d6408e43d3a4c1f7.js","472","static/chunks/app/post/%5Bcategory%5D/%5Btitle%5D/page-bb1b5c27d30bc491.js"],"default"]
+f:T15f5,
+<h2 id="定义">定义</h2>
+<p>位运算符将它的操作数视为32位元的二进制串（0和1组成）而非十进制八进制或十六进制数。例如：十进制数字9用二进制表示为1001，位运算符就是在这个二进制表示上执行运算，但是返回结果是标准的JavaScript数值。</p>
+<p>下表总结了 JavaScript 的位运算符。</p>
+<table>
+<thead>
+<tr>
+<th align="left">Operator</th>
+<th align="left">Usage</th>
+<th align="left">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">按位与<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_Operators#Bitwise_AND"> AND</a></td>
+<td align="left"><code>a &#x26; b</code></td>
+<td align="left">在a,b的位表示中，每一个对应的位都为1则返回1， 否则返回0.</td>
+</tr>
+<tr>
+<td align="left">按位或<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_Operators#Bitwise_OR"> OR</a></td>
+<td align="left">`a</td>
+<td align="left">b`</td>
+</tr>
+<tr>
+<td align="left">按位异或<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_Operators#Bitwise_XOR"> XOR</a></td>
+<td align="left"><code>a ^ b</code></td>
+<td align="left">在a,b的位表示中，每一个对应的位，两个不相同则返回1，相同则返回0.</td>
+</tr>
+<tr>
+<td align="left">按位非<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_Operators#Bitwise_NOT"> NOT</a></td>
+<td align="left"><code>~ a</code></td>
+<td align="left">反转被操作数的位。</td>
+</tr>
+<tr>
+<td align="left">左移<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_Operators#Left_shift"> shift</a></td>
+<td align="left"><code>a &#x3C;&#x3C; b</code></td>
+<td align="left">将a的二进制串向左移动b位,右边移入0.</td>
+</tr>
+<tr>
+<td align="left">算术右移</td>
+<td align="left"><code>a >> b</code></td>
+<td align="left">把a的二进制表示向右移动b位，丢弃被移出的所有位.(译注:算术右移左边空出的位是根据最高位是0和1来进行填充的)</td>
+</tr>
+<tr>
+<td align="left">无符号右移(左边空出位用0填充)</td>
+<td align="left"><code>a >>> b</code></td>
+<td align="left">把a的二进制表示向右移动b位，丢弃被移出的所有位，并把左边空出的位都填充为0</td>
+</tr>
+</tbody>
+</table>
+<h2 id="运用">运用</h2>
+<p>位运算经常被用来创建、处理以及读取标志位序列——一种类似二进制的变量。虽然可以使用变量代替标志位序列，但是这样可以节省内存（1/32）。</p>
+<p>例如，有 4 个标志位：</p>
+<ul>
+<li>标志位 A：我们有 ant</li>
+<li>标志位 B：我们有 bat</li>
+<li>标志位 C：我们有 cat</li>
+<li>标志位 D：我们有 duck</li>
+</ul>
+<p>标志位通过位序列 DCBA 来表示。当一个位被置位 (set) 时，它的值为 1 。当被清除 (clear) 时，它的值为 0 。例如一个变量 <code>flags</code> 的二进制值为 0101：</p>
+<pre><code class="hljs language-javascript"><span class="hljs-keyword">var</span> flags = <span class="hljs-number">5</span>;   <span class="hljs-comment">// 二进制 0101</span>
+</code></pre>
+<p>这个值表示：</p>
+<ul>
+<li>标志位 A 是 true （我们有 ant）；</li>
+<li>标志位 B 是 false （我们没有 bat）；</li>
+<li>标志位 C 是 true （我们有 cat）；</li>
+<li>标志位 D 是 false （我们没有 duck）；</li>
+</ul>
+<p>因为位运算是 32 位的， 0101 实际上是 00000000000000000000000000000101。因为前面多余的 0 没有任何意义，所以他们可以被忽略。</p>
+<p>掩码 (bitmask) 是一个通过与/或来读取标志位的位序列。典型的定义每个标志位的原语掩码如下：</p>
+<pre><code class="hljs language-javascript"><span class="hljs-keyword">var</span> <span class="hljs-variable constant_">FLAG_A</span> = <span class="hljs-number">1</span>; <span class="hljs-comment">// 0001</span>
+<span class="hljs-keyword">var</span> <span class="hljs-variable constant_">FLAG_B</span> = <span class="hljs-number">2</span>; <span class="hljs-comment">// 0010</span>
+<span class="hljs-keyword">var</span> <span class="hljs-variable constant_">FLAG_C</span> = <span class="hljs-number">4</span>; <span class="hljs-comment">// 0100</span>
+<span class="hljs-keyword">var</span> <span class="hljs-variable constant_">FLAG_D</span> = <span class="hljs-number">8</span>; <span class="hljs-comment">// 1000</span>
+</code></pre>
+<p>新的掩码可以在以上掩码上使用逻辑运算创建。例如，掩码 1011 可以通过 FLAG_A、FLAG_B 和 FLAG_D 逻辑或得到：</p>
+<pre><code class="hljs language-javascript"><span class="hljs-keyword">var</span> mask = <span class="hljs-variable constant_">FLAG_A</span> | <span class="hljs-variable constant_">FLAG_B</span> | <span class="hljs-variable constant_">FLAG_D</span>; <span class="hljs-comment">// 0001 | 0010 | 1000 => 1011</span>
+</code></pre>
+<p>某个特定的位可以通过与掩码做逻辑与运算得到，通过与掩码的与运算可以去掉无关的位，得到特定的位。例如，掩码 0100 可以用来检查标志位 C 是否被置位：</p>
+<pre><code class="hljs language-javascript"><span class="hljs-comment">// 如果我们有 cat</span>
+<span class="hljs-keyword">if</span> (flags &#x26; <span class="hljs-variable constant_">FLAG_C</span>) { <span class="hljs-comment">// 0101 &#x26; 0100 => 0100 => true</span>
+   <span class="hljs-comment">// do stuff</span>
+}
+</code></pre>2:["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-semibold","children":"位运算符"}],["$","div",null,{"className":"fixed right-12 bottom-20 ","children":["$","$Le",null,{"toc":"\n<ul>\n<li><a href=\"#%E5%AE%9A%E4%B9%89\">定义</a></li>\n<li><a href=\"#%E8%BF%90%E7%94%A8\">运用</a></li>\n</ul>"}]}],["$","div",null,{"className":"page_content__nM6Lc","dangerouslySetInnerHTML":{"__html":"$f"}}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"文章 | 位运算符"}],["$","meta","3",{"name":"description","content":"新宸悦雨 博客 网站 个人网站"}],["$","meta","4",{"name":"google-site-verification","content":"LiZ4kQwHGTLadwCnDnrXngpwNqoQjmFOCOVTtr_PWVo"}],["$","link","5",{"rel":"icon","href":"/icon.svg?d2cf70afa15ddfd8","type":"image/svg+xml","sizes":"any"}]]
+1:null

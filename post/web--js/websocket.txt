@@ -1,0 +1,224 @@
+3:I[9275,[],""]
+6:I[1343,[],""]
+7:I[9512,["257","static/chunks/257-d6408e43d3a4c1f7.js","231","static/chunks/231-75c2bb16e5311c25.js","185","static/chunks/app/layout-5aac403eda8ffac1.js"],"ThemeProvider"]
+8:I[9890,["257","static/chunks/257-d6408e43d3a4c1f7.js","231","static/chunks/231-75c2bb16e5311c25.js","185","static/chunks/app/layout-5aac403eda8ffac1.js"],"ColorProvider"]
+9:I[1998,["257","static/chunks/257-d6408e43d3a4c1f7.js","231","static/chunks/231-75c2bb16e5311c25.js","185","static/chunks/app/layout-5aac403eda8ffac1.js"],"default"]
+a:I[3408,["257","static/chunks/257-d6408e43d3a4c1f7.js","231","static/chunks/231-75c2bb16e5311c25.js","185","static/chunks/app/layout-5aac403eda8ffac1.js"],"ColorToggle"]
+b:I[6345,["257","static/chunks/257-d6408e43d3a4c1f7.js","231","static/chunks/231-75c2bb16e5311c25.js","185","static/chunks/app/layout-5aac403eda8ffac1.js"],"ThemeToggle"]
+c:I[7970,["257","static/chunks/257-d6408e43d3a4c1f7.js","231","static/chunks/231-75c2bb16e5311c25.js","185","static/chunks/app/layout-5aac403eda8ffac1.js"],"NavToggle"]
+4:["category","web--js","d"]
+5:["title","websocket","d"]
+0:["GB6GWdwB48S_6jQAbWqVr",[[["",{"children":["post",{"children":[["category","web--js","d"],{"children":[["title","websocket","d"],{"children":["__PAGE__?{\"category\":\"web--js\",\"title\":\"websocket\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":["post",{"children":[["category","web--js","d"],{"children":[["title","websocket","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","post","children","$4","children","$5","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/2715c8fee6b9b9b3.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","post","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","post","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"min-h-screen bg-background font-sans antialiased __variable_aaf875","children":["$","$L7",null,{"attribute":"class","defaultTheme":"system","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L8",null,{"children":[["$","header",null,{"className":"sticky top-0 z-50 w-full border-b border-primary/40 bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60","children":["$","div",null,{"className":"container flex h-14 max-w-screen-2xl items-center justify-between","children":[["$","div",null,{"className":"mr-4 flex","children":[["$","a",null,{"className":"mr-6 flex items-center space-x-2","href":"/","children":[["$","span",null,{"className":"inline-block w-8 h-8","children":["$","svg",null,{"viewBox":"0 0 64 64","children":["$","g",null,{"fill":"none","fillRule":"evenodd","children":[["$","circle",null,{"cx":32,"cy":32,"r":26,"fill":"hsl(var(--primary))"}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","xmlnsXlink":"http://www.w3.org/1999/xlink","width":26,"height":26,"x":19,"y":10,"viewBox":"0 0 24 24","children":["$","path",null,{"fill":"hsl(var(--background))","d":"M5.438 2c-.512 0-1.02.203-1.407.594L2.594 4.03a1.987 1.987 0 0 0 0 2.813l2.125 2.125C3.977 10.46 3.207 12.016 3 12.375c-.469.813-1 1.617-1 2.625 0 1.473.805 2.746 2 3.438.184.105 4.188 2.906 4.188 2.906h.03C8.896 21.75 9.66 22 10.5 22h3c.832 0 1.613-.223 2.281-.625.38-.227 4.031-2.664 5.219-3.75.688-.633 1-1.621 1-2.625s-.414-1.754-1-2.625c-.277-.43-1.023-1.96-1.719-3.406l2.125-2.125a1.987 1.987 0 0 0 0-2.813L19.97 2.594a1.987 1.987 0 0 0-2.813 0l-1.5 1.5A2.2 2.2 0 0 0 15 4H9a2.8 2.8 0 0 0-.656.094l-1.5-1.5A1.98 1.98 0 0 0 5.437 2M9.5 10a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3m5 0a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3M12 13.813c.395 0 .79.054 1 .187.95.59 3 2.883 3 4 0 .559-1.328 1.781-2 2-.953.309-3.047.309-4 0-.672-.219-2-1.441-2-2 0-1.117 2.05-3.41 3-4 .21-.133.605-.187 1-.187M11 17c-.363 0-.57.43-.312.688l1.03 1.218c.16.16.403.16.563 0l1.031-1.218C13.57 17.43 13.364 17 13 17Z"}]}],["$","text",null,{"fill":"hsl(var(--background))","data-text-alignment":"C","fontFamily":"Fira Mono","fontSize":14,"fontWeight":700,"letterSpacing":0.81,"transform":"translate(-4 33)","children":["$","tspan",null,{"x":17.07,"y":17,"children":"XCYY"}]}],["$","circle",null,{"cx":32,"cy":32,"r":30,"stroke":"hsl(var(--primary))","strokeWidth":2}]]}]}]}],["$","span",null,{"className":"text-primary","children":"新宸悦雨"}]]}],["$","$L9",null,{}]]}],["$","nav",null,{"className":"flex items-center space-x-2","children":[["$","$La",null,{}],["$","$Lb",null,{}],["$","div",null,{"className":"md:hidden","children":["$","$Lc",null,{}]}]]}]]}]}],["$","main",null,{"className":"container max-w-screen-2xl py-6","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]]}]}]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f8ad259a7d5c0bf2.css","precedence":"next","crossOrigin":"$undefined"}]],"$Ld"]]]]
+e:I[789,["257","static/chunks/257-d6408e43d3a4c1f7.js","472","static/chunks/app/post/%5Bcategory%5D/%5Btitle%5D/page-bb1b5c27d30bc491.js"],"default"]
+f:T52a9,
+<h2 id="介绍">介绍</h2>
+<p><strong>WebSockets</strong> 是一种先进的技术。它可以在用户的浏览器和服务器之间打开交互式通信会话。使用此API，您可以向服务器发送消息并接收事件驱动的响应，而无需通过轮询服务器的方式以获得响应。</p>
+<h2 id="web-api">web api</h2>
+<p><a href="https://developer.mozilla.org/zh-CN/docs/Web/API/WebSocket"><code>WebSocket</code></a></p>
+<p>用于连接WebSocket服务器的主要接口，之后可以在这个连接上发送 和接受数据。</p>
+<p><a href="https://developer.mozilla.org/zh-CN/docs/Web/API/CloseEvent"><code>CloseEvent</code></a></p>
+<p>连接关闭时WebSocket对象发送的事件。</p>
+<p><a href="https://developer.mozilla.org/zh-CN/docs/Web/API/MessageEvent"><code>MessageEvent</code></a></p>
+<p>当从服务器获取到消息的时候WebSocket对象触发的事件。</p>
+<p>WebSocket 不应当用于混合的上下文环境；也就是说，不应该在用HTTPS加载的页面中打开非安全版本的WebSocket，反之亦然。而实际上一些浏览器也明确禁止这一行为，包括 Firefox 8 及更高版本。</p>
+<p>使用示例：</p>
+<pre><code class="hljs language-javascript"><span class="hljs-keyword">const</span> ws = <span class="hljs-keyword">new</span> <span class="hljs-title class_">WebSocket</span>(<span class="hljs-string">'ws://xxx.com/xxx'</span>)
+ws.<span class="hljs-title function_">addEventListener</span>(<span class="hljs-string">'open'</span>,<span class="hljs-function"><span class="hljs-params">e</span>=></span>{})
+ws.<span class="hljs-title function_">addEventListener</span>(<span class="hljs-string">'message'</span>,<span class="hljs-function"><span class="hljs-params">e</span>=></span>{
+    cosnole.<span class="hljs-title function_">log</span>(e.<span class="hljs-property">data</span>)
+})
+ws.<span class="hljs-title function_">addEventListener</span>(<span class="hljs-string">'error'</span>,<span class="hljs-function"><span class="hljs-params">e</span>=></span>{})
+ws.<span class="hljs-title function_">addEventListener</span>(<span class="hljs-string">'close'</span>,<span class="hljs-function"><span class="hljs-params">e</span>=></span>{})
+ws.<span class="hljs-title function_">send</span>(<span class="hljs-string">'hello'</span>)
+</code></pre>
+<h2 id="websocket协议主要内容参考rfc-6455">websocket协议主要内容(参考<a href="https://tools.ietf.org/html/rfc6455#page-4">RFC 6455</a>)</h2>
+<p>websocket协议基于TCP协议，通过HTTP进行握手。</p>
+<blockquote>
+<p>The WebSocket Protocol is an independent TCP-based protocol.  Its
+only relationship to HTTP is that its handshake is interpreted by
+HTTP servers as an Upgrade request.</p>
+<p>By default, the WebSocket Protocol uses port 80 for regular WebSocket
+connections and port 443 for WebSocket connections tunneled over
+Transport Layer Security (TLS)</p>
+</blockquote>
+<p>The protocol has two parts: a handshake and the data transfer.</p>
+<h3 id="握手">握手</h3>
+<p>The handshake from the client looks as follows:</p>
+<pre><code class="hljs language-swift">    <span class="hljs-type">GET</span> <span class="hljs-regexp">/chat HTTP/</span><span class="hljs-number">1.1</span>
+    <span class="hljs-type">Host</span>: server.example.com
+    <span class="hljs-type">Upgrade</span>: websocket  <span class="hljs-comment">// 将协议升级为websocket</span>
+    <span class="hljs-type">Connection</span>: <span class="hljs-type">Upgrade</span> <span class="hljs-comment">// 升级协议</span>
+    <span class="hljs-type">Sec</span><span class="hljs-operator">-</span><span class="hljs-type">WebSocket</span><span class="hljs-operator">-</span><span class="hljs-type">Key</span>: dGhlIHNhbXBsZSBub25jZQ<span class="hljs-operator">==</span> <span class="hljs-comment">// </span>
+    <span class="hljs-type">Origin</span>: http:<span class="hljs-comment">//example.com</span>
+    <span class="hljs-type">Sec</span><span class="hljs-operator">-</span><span class="hljs-type">WebSocket</span><span class="hljs-operator">-</span><span class="hljs-type">Protocol</span>: chat, superchat <span class="hljs-comment">// 期望使用的子协议</span>
+    <span class="hljs-type">Sec</span><span class="hljs-operator">-</span><span class="hljs-type">WebSocket</span><span class="hljs-operator">-</span><span class="hljs-type">Version</span>: <span class="hljs-number">13</span> <span class="hljs-comment">// websocket版本</span>
+    <span class="hljs-comment">// ...其他http请求头</span>
+</code></pre>
+<p>The handshake from the server looks as follows:</p>
+<pre><code class="hljs language-yaml">    <span class="hljs-string">HTTP/1.1</span> <span class="hljs-number">101</span> <span class="hljs-string">Switching</span> <span class="hljs-string">Protocols</span>
+    <span class="hljs-attr">Upgrade:</span> <span class="hljs-string">websocket</span>
+    <span class="hljs-attr">Connection:</span> <span class="hljs-string">Upgrade</span>
+    <span class="hljs-attr">Sec-WebSocket-Accept:</span> <span class="hljs-string">s3pPLMBiTxaQ9kYGzzhZRbK+xOo=</span> <span class="hljs-string">//</span> <span class="hljs-string">base64(SHA1(Sec-WebSocket-Key</span> <span class="hljs-string">+</span> <span class="hljs-string">GUID))</span>
+    <span class="hljs-attr">Sec-WebSocket-Protocol:</span> <span class="hljs-string">chat</span> <span class="hljs-string">//</span> <span class="hljs-string">确定使用的子协议</span>
+    <span class="hljs-attr">Sec-WebSocket-Version:</span> <span class="hljs-number">13</span> <span class="hljs-string">//</span> <span class="hljs-string">如果不支持请求头中的版本，则发回支持的websocket版本</span>
+    <span class="hljs-string">//</span> <span class="hljs-string">...其他http响应头</span>
+</code></pre>
+<p>其中<code>Sec-WebSocket-Accept</code>的值是由<code>Sec-WebSocket-Key</code>和<code>GUID</code>拼接，拼接后进行SHA1编码，然后再编码为base64格式的字符串。GUID是一个常量字符串。</p>
+<blockquote>
+<p>Globally Unique Identifier (GUID, <a href="https://tools.ietf.org/html/rfc4122">[RFC4122]</a>) "258EAFA5-E914-47DA-95CA-C5AB0DC85B11"</p>
+</blockquote>
+<h3 id="数据">数据</h3>
+<p>数据是通过一个或多个数据帧来传送，单个数据帧的格式如下：</p>
+<pre><code class="hljs language-lua">      <span class="hljs-number">0</span>                   <span class="hljs-number">1</span>                   <span class="hljs-number">2</span>                   <span class="hljs-number">3</span>
+      <span class="hljs-number">0</span> <span class="hljs-number">1</span> <span class="hljs-number">2</span> <span class="hljs-number">3</span> <span class="hljs-number">4</span> <span class="hljs-number">5</span> <span class="hljs-number">6</span> <span class="hljs-number">7</span> <span class="hljs-number">8</span> <span class="hljs-number">9</span> <span class="hljs-number">0</span> <span class="hljs-number">1</span> <span class="hljs-number">2</span> <span class="hljs-number">3</span> <span class="hljs-number">4</span> <span class="hljs-number">5</span> <span class="hljs-number">6</span> <span class="hljs-number">7</span> <span class="hljs-number">8</span> <span class="hljs-number">9</span> <span class="hljs-number">0</span> <span class="hljs-number">1</span> <span class="hljs-number">2</span> <span class="hljs-number">3</span> <span class="hljs-number">4</span> <span class="hljs-number">5</span> <span class="hljs-number">6</span> <span class="hljs-number">7</span> <span class="hljs-number">8</span> <span class="hljs-number">9</span> <span class="hljs-number">0</span> <span class="hljs-number">1</span>
+     +-+-+-+-+<span class="hljs-comment">-------+-+-------------+-------------------------------+</span>
+     |F|R|R|R| opcode|M| Payload <span class="hljs-built_in">len</span> |    Extended payload length    |
+     |I|S|S|S|  (<span class="hljs-number">4</span>)  |A|     (<span class="hljs-number">7</span>)     |             (<span class="hljs-number">16</span>/<span class="hljs-number">64</span>)           |
+     |N|V|V|V|       |S|             |   (<span class="hljs-keyword">if</span> payload <span class="hljs-built_in">len</span>==<span class="hljs-number">126</span>/<span class="hljs-number">127</span>)   |
+     | |<span class="hljs-number">1</span>|<span class="hljs-number">2</span>|<span class="hljs-number">3</span>|       |K|             |                               |
+     +-+-+-+-+<span class="hljs-comment">-------+-+-------------+ - - - - - - - - - - - - - - - +</span>
+     |     Extended payload length continued, <span class="hljs-keyword">if</span> payload <span class="hljs-built_in">len</span> == <span class="hljs-number">127</span>  |
+     + - - - - - - - - - - - - - - - +<span class="hljs-comment">-------------------------------+</span>
+     |                               |Masking-key, <span class="hljs-keyword">if</span> MASK set to <span class="hljs-number">1</span>  |
+     +<span class="hljs-comment">-------------------------------+-------------------------------+</span>
+     | Masking-key (continued)       |          Payload Data         |
+     +<span class="hljs-comment">-------------------------------- - - - - - - - - - - - - - - - +</span>
+     :                     Payload Data continued ...                :
+     + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - +
+     |                     Payload Data continued ...                |
+     +<span class="hljs-comment">---------------------------------------------------------------+</span>
+</code></pre>
+<p>FIN：1 bit，是否为最后一个数据帧。</p>
+<p>RSV1, RSV2, RSV3：1 bit each，一般都为0，当需要拓展协议时供拓展使用。</p>
+<p>opcode：4 bits，用于解释"Payload data"的作用，如果接收到无法识别的opcode则接收失败</p>
+<ol>
+<li>
+<p>0x0：连续帧</p>
+<ol start="2">
+<li>0x1：文本帧</li>
+<li>0x2：二进制帧</li>
+<li>0x3-0x7：保留用于其他非控制帧</li>
+<li>0x8：关闭连接</li>
+<li>0x9：ping</li>
+<li>0xA：pong</li>
+<li>0xB-0xF：保留用于其他控制帧</li>
+</ol>
+</li>
+</ol>
+<p>Mask：1 bit，"Payload data"是否经过掩码处理，值为1时需要设置“Masking-key”。客户端发送数据时必须为1。</p>
+<p>Payload length:  7 bits, 7+16 bits, or 7+64 bits，</p>
+<p>Masking-key:  0 or 4 bytes，掩码</p>
+<p>Payload data：实际数据内容</p>
+<p>编码/解码</p>
+<p>随机生成一个32位的掩码，然后通过以下算法计算编码/解码后的数据：</p>
+<pre><code class="hljs language-ini"><span class="hljs-attr">j</span> = i MOD <span class="hljs-number">4</span>
+<span class="hljs-attr">transformed-octet-i</span> = original-octet-i XOR masking-key-octet-j
+即
+掩码的第1个字节与数据的第1个字节进行按位异或运算，得到编码/解码后的第1个字节
+掩码的第2个字节与数据的第2个字节进行按位异或运算，得到编码/解码/解码后的第2个字节
+掩码的第3个字节与数据的第3个字节进行按位异或运算，得到编码/解码后的第3个字节
+掩码的第4个字节与数据的第4个字节进行按位异或运算，得到编码/解码后的第4个字节
+掩码的第1个字节与数据的第5个字节进行按位异或运算，得到编码/解码后的第5个字节
+掩码的第2个字节与数据的第6个字节进行按位异或运算，得到编码/解码后的第6个字节
+直到全部编码/解码完成
+</code></pre>
+<h2 id="websocket协议简单实现nodejs">websocket协议简单实现(nodejs)</h2>
+<p>server.js</p>
+<pre><code class="hljs language-javascript"><span class="hljs-meta">
+'use strict'</span>;
+
+<span class="hljs-keyword">const</span> http = <span class="hljs-built_in">require</span>(<span class="hljs-string">'http'</span>)
+<span class="hljs-keyword">const</span> fs = <span class="hljs-built_in">require</span>(<span class="hljs-string">'fs'</span>)
+<span class="hljs-keyword">const</span> crypto = <span class="hljs-built_in">require</span>(<span class="hljs-string">'crypto'</span>)
+
+<span class="hljs-keyword">const</span> <span class="hljs-variable constant_">GUID</span> = <span class="hljs-string">'258EAFA5-E914-47DA-95CA-C5AB0DC85B11'</span>
+<span class="hljs-keyword">const</span> hostname = <span class="hljs-string">'localhost'</span>
+<span class="hljs-keyword">const</span> port = <span class="hljs-number">8080</span>
+
+<span class="hljs-keyword">const</span> server = http.<span class="hljs-title function_">createServer</span>(<span class="hljs-function">(<span class="hljs-params">req,res</span>)=></span>{
+    <span class="hljs-keyword">const</span> {url} = req
+    res.<span class="hljs-title function_">setHeader</span>(<span class="hljs-string">'Content-Type'</span>,<span class="hljs-string">'utf8'</span>)
+    
+    <span class="hljs-keyword">if</span>(url === <span class="hljs-string">'/'</span>){
+        res.<span class="hljs-title function_">writeHead</span>(<span class="hljs-number">200</span>, { <span class="hljs-string">'Content-Type'</span>: <span class="hljs-string">'text/html'</span> })
+        fs.<span class="hljs-title function_">readFile</span>(__dirname + <span class="hljs-string">"/index.html"</span>, <span class="hljs-string">"utf-8"</span>, <span class="hljs-keyword">function</span> (<span class="hljs-params">error, data</span>){
+            <span class="hljs-keyword">if</span>(error)
+                res.<span class="hljs-title function_">end</span>(<span class="hljs-string">"404"</span>);
+            <span class="hljs-keyword">else</span>
+                res.<span class="hljs-title function_">end</span>(data.<span class="hljs-title function_">toString</span>());
+        });
+    }<span class="hljs-keyword">else</span> {
+        res.<span class="hljs-title function_">end</span>(<span class="hljs-string">'404'</span>)
+    }
+}).<span class="hljs-title function_">on</span>(<span class="hljs-string">'upgrade'</span>,<span class="hljs-function">(<span class="hljs-params">req, socket,head</span>)=></span>{
+    
+    <span class="hljs-keyword">const</span> {headers} = req
+    <span class="hljs-keyword">const</span> key = crypto.<span class="hljs-title function_">createHash</span>(<span class="hljs-string">'sha1'</span>).<span class="hljs-title function_">update</span>(headers[<span class="hljs-string">"sec-websocket-key"</span>]+<span class="hljs-variable constant_">GUID</span>).<span class="hljs-title function_">digest</span>(<span class="hljs-string">'base64'</span>)
+    <span class="hljs-comment">// 握手</span>
+    socket.<span class="hljs-title function_">write</span>([
+        <span class="hljs-string">'HTTP/1.1 101 Switching Protocols'</span>,
+        <span class="hljs-string">'Upgrade: websocket'</span>,
+        <span class="hljs-string">'Connection: Upgrade'</span>,
+        <span class="hljs-string">`sec-websocket-accept: <span class="hljs-subst">${key}</span>`</span>
+    ].<span class="hljs-title function_">join</span>(<span class="hljs-string">'\r\n'</span>)+<span class="hljs-string">'\r\n\r\n'</span>)
+    
+    <span class="hljs-comment">// 接收数据</span>
+    socket.<span class="hljs-title function_">on</span>(<span class="hljs-string">'data'</span>, <span class="hljs-keyword">function</span> (<span class="hljs-params">buf</span>) {
+        <span class="hljs-keyword">let</span> values = <span class="hljs-string">''</span>
+        <span class="hljs-keyword">for</span>(<span class="hljs-keyword">let</span> value <span class="hljs-keyword">of</span> buf.<span class="hljs-title function_">values</span>()){
+            values += value.<span class="hljs-title function_">toString</span>(<span class="hljs-number">2</span>)
+        }
+        <span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(values) 
+        <span class="hljs-comment">// 10000001 10000111 10010001 01011010 11010011 01010100 11111001 00111111 10111111 00111000 11111110 01110100 11111101</span>
+        <span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(<span class="hljs-title function_">decodeFrame</span>(buf)) <span class="hljs-comment">// hello..</span>
+    });
+    
+    <span class="hljs-comment">// 发送数据</span>
+    socket.<span class="hljs-title function_">send</span>(<span class="hljs-title function_">encodeFrame</span>(<span class="hljs-string">'hi'</span>))
+}).<span class="hljs-title function_">listen</span>(port,hostname,<span class="hljs-function">()=></span>{
+    <span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(<span class="hljs-string">'server started, click http://'</span>+hostname+<span class="hljs-string">':'</span>+port+<span class="hljs-string">' to view the page'</span>)
+})
+
+<span class="hljs-comment">// 解码</span>
+<span class="hljs-keyword">function</span> <span class="hljs-title function_">decodeFrame</span>(<span class="hljs-params">buf</span>) {
+    <span class="hljs-keyword">const</span> length = buf.<span class="hljs-title function_">readUInt8</span>(<span class="hljs-number">1</span>) &#x26; <span class="hljs-number">0x7f</span>
+    <span class="hljs-keyword">const</span> mask = buf.<span class="hljs-title function_">slice</span>(<span class="hljs-number">2</span>,<span class="hljs-number">6</span>)
+    <span class="hljs-keyword">const</span> payload = buf.<span class="hljs-title function_">slice</span>(<span class="hljs-number">6</span>)
+    <span class="hljs-keyword">let</span> formattedBuf = <span class="hljs-title class_">Buffer</span>.<span class="hljs-title function_">alloc</span>(payload.<span class="hljs-property">length</span>)
+    <span class="hljs-keyword">for</span>(<span class="hljs-keyword">let</span> i=<span class="hljs-number">0</span>;i&#x3C;payload.<span class="hljs-property">length</span>;i++) {
+        formattedBuf[i] = mask[i%<span class="hljs-number">4</span>] ^ payload[i]
+    }
+    <span class="hljs-keyword">return</span> formattedBuf
+}
+
+<span class="hljs-comment">// 编码</span>
+<span class="hljs-keyword">function</span> <span class="hljs-title function_">encodeFrame</span>(<span class="hljs-params">str</span>) {
+    <span class="hljs-keyword">const</span> payload = <span class="hljs-title class_">Buffer</span>.<span class="hljs-title function_">from</span>(str)
+    <span class="hljs-keyword">const</span> frame = <span class="hljs-title class_">Buffer</span>.<span class="hljs-title function_">alloc</span>(payload.<span class="hljs-property">length</span>+<span class="hljs-number">2</span>)
+    frame.<span class="hljs-title function_">writeUInt8</span>(<span class="hljs-number">0b10000001</span>)
+    frame.<span class="hljs-title function_">writeUInt8</span>(<span class="hljs-number">0b00000010</span>,<span class="hljs-number">1</span>)
+    payload.<span class="hljs-title function_">copy</span>(frame,<span class="hljs-number">2</span>)
+    <span class="hljs-keyword">return</span> frame
+}
+</code></pre>
+<p>index.html</p>
+<pre><code class="hljs language-html"><span class="hljs-tag">&#x3C;<span class="hljs-name">html</span>></span>
+  <span class="hljs-tag">&#x3C;<span class="hljs-name">head</span>></span>
+    <span class="hljs-tag">&#x3C;<span class="hljs-name">meta</span> <span class="hljs-attr">charset</span>=<span class="hljs-string">"utf-8"</span>/></span>
+  <span class="hljs-tag">&#x3C;/<span class="hljs-name">head</span>></span>
+  <span class="hljs-tag">&#x3C;<span class="hljs-name">body</span>></span>
+    <span class="hljs-tag">&#x3C;<span class="hljs-name">div</span> <span class="hljs-attr">id</span>=<span class="hljs-string">"container"</span>></span><span class="hljs-tag">&#x3C;/<span class="hljs-name">div</span>></span>
+    <span class="hljs-tag">&#x3C;<span class="hljs-name">script</span> <span class="hljs-attr">type</span>=<span class="hljs-string">"text/babel"</span>></span><span class="javascript">
+    <span class="hljs-keyword">const</span> client = <span class="hljs-keyword">new</span> <span class="hljs-title class_">WebSocket</span>(<span class="hljs-string">'ws://localhost:8080'</span>)
+    client.<span class="hljs-title function_">addEventListener</span>(<span class="hljs-string">'message'</span>, <span class="hljs-function"><span class="hljs-params">e</span>=></span>{
+      <span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(e)
+    })
+    client.<span class="hljs-title function_">addEventListener</span>(<span class="hljs-string">'open'</span>, <span class="hljs-function"><span class="hljs-params">e</span>=></span>{
+      client.<span class="hljs-title function_">send</span>(<span class="hljs-string">'hello..'</span>)
+    })
+    </span><span class="hljs-tag">&#x3C;/<span class="hljs-name">script</span>></span>
+  <span class="hljs-tag">&#x3C;/<span class="hljs-name">body</span>></span>
+<span class="hljs-tag">&#x3C;/<span class="hljs-name">html</span>></span>
+</code></pre>2:["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-semibold","children":"websocket"}],["$","div",null,{"className":"fixed right-12 bottom-20 ","children":["$","$Le",null,{"toc":"\n<ul>\n<li><a href=\"#%E4%BB%8B%E7%BB%8D\">介绍</a></li>\n<li><a href=\"#web-api\">web api</a></li>\n<li><a href=\"#websocket%E5%8D%8F%E8%AE%AE%E4%B8%BB%E8%A6%81%E5%86%85%E5%AE%B9%E5%8F%82%E8%80%83rfc-6455\">websocket协议主要内容(参考RFC 6455)</a>\n<ul>\n<li><a href=\"#%E6%8F%A1%E6%89%8B\">握手</a></li>\n<li><a href=\"#%E6%95%B0%E6%8D%AE\">数据</a></li>\n</ul>\n</li>\n<li><a href=\"#websocket%E5%8D%8F%E8%AE%AE%E7%AE%80%E5%8D%95%E5%AE%9E%E7%8E%B0nodejs\">websocket协议简单实现(nodejs)</a></li>\n</ul>"}]}],["$","div",null,{"className":"page_content__nM6Lc","dangerouslySetInnerHTML":{"__html":"$f"}}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"文章 | websocket"}],["$","meta","3",{"name":"description","content":"新宸悦雨 博客 网站 个人网站"}],["$","meta","4",{"name":"google-site-verification","content":"LiZ4kQwHGTLadwCnDnrXngpwNqoQjmFOCOVTtr_PWVo"}],["$","link","5",{"rel":"icon","href":"/icon.svg?d2cf70afa15ddfd8","type":"image/svg+xml","sizes":"any"}]]
+1:null

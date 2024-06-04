@@ -1,0 +1,76 @@
+3:I[9275,[],""]
+6:I[1343,[],""]
+7:I[9512,["257","static/chunks/257-d6408e43d3a4c1f7.js","231","static/chunks/231-75c2bb16e5311c25.js","185","static/chunks/app/layout-5aac403eda8ffac1.js"],"ThemeProvider"]
+8:I[9890,["257","static/chunks/257-d6408e43d3a4c1f7.js","231","static/chunks/231-75c2bb16e5311c25.js","185","static/chunks/app/layout-5aac403eda8ffac1.js"],"ColorProvider"]
+9:I[1998,["257","static/chunks/257-d6408e43d3a4c1f7.js","231","static/chunks/231-75c2bb16e5311c25.js","185","static/chunks/app/layout-5aac403eda8ffac1.js"],"default"]
+a:I[3408,["257","static/chunks/257-d6408e43d3a4c1f7.js","231","static/chunks/231-75c2bb16e5311c25.js","185","static/chunks/app/layout-5aac403eda8ffac1.js"],"ColorToggle"]
+b:I[6345,["257","static/chunks/257-d6408e43d3a4c1f7.js","231","static/chunks/231-75c2bb16e5311c25.js","185","static/chunks/app/layout-5aac403eda8ffac1.js"],"ThemeToggle"]
+c:I[7970,["257","static/chunks/257-d6408e43d3a4c1f7.js","231","static/chunks/231-75c2bb16e5311c25.js","185","static/chunks/app/layout-5aac403eda8ffac1.js"],"NavToggle"]
+4:["category","web","d"]
+5:["title","%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E8%AE%B0%E5%BD%95","d"]
+0:["GB6GWdwB48S_6jQAbWqVr",[[["",{"children":["post",{"children":[["category","web","d"],{"children":[["title","%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E8%AE%B0%E5%BD%95","d"],{"children":["__PAGE__?{\"category\":\"web\",\"title\":\"个人网站搭建记录\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":["post",{"children":[["category","web","d"],{"children":[["title","%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E8%AE%B0%E5%BD%95","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","post","children","$4","children","$5","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/2715c8fee6b9b9b3.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","post","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","post","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"min-h-screen bg-background font-sans antialiased __variable_aaf875","children":["$","$L7",null,{"attribute":"class","defaultTheme":"system","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L8",null,{"children":[["$","header",null,{"className":"sticky top-0 z-50 w-full border-b border-primary/40 bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60","children":["$","div",null,{"className":"container flex h-14 max-w-screen-2xl items-center justify-between","children":[["$","div",null,{"className":"mr-4 flex","children":[["$","a",null,{"className":"mr-6 flex items-center space-x-2","href":"/","children":[["$","span",null,{"className":"inline-block w-8 h-8","children":["$","svg",null,{"viewBox":"0 0 64 64","children":["$","g",null,{"fill":"none","fillRule":"evenodd","children":[["$","circle",null,{"cx":32,"cy":32,"r":26,"fill":"hsl(var(--primary))"}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","xmlnsXlink":"http://www.w3.org/1999/xlink","width":26,"height":26,"x":19,"y":10,"viewBox":"0 0 24 24","children":["$","path",null,{"fill":"hsl(var(--background))","d":"M5.438 2c-.512 0-1.02.203-1.407.594L2.594 4.03a1.987 1.987 0 0 0 0 2.813l2.125 2.125C3.977 10.46 3.207 12.016 3 12.375c-.469.813-1 1.617-1 2.625 0 1.473.805 2.746 2 3.438.184.105 4.188 2.906 4.188 2.906h.03C8.896 21.75 9.66 22 10.5 22h3c.832 0 1.613-.223 2.281-.625.38-.227 4.031-2.664 5.219-3.75.688-.633 1-1.621 1-2.625s-.414-1.754-1-2.625c-.277-.43-1.023-1.96-1.719-3.406l2.125-2.125a1.987 1.987 0 0 0 0-2.813L19.97 2.594a1.987 1.987 0 0 0-2.813 0l-1.5 1.5A2.2 2.2 0 0 0 15 4H9a2.8 2.8 0 0 0-.656.094l-1.5-1.5A1.98 1.98 0 0 0 5.437 2M9.5 10a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3m5 0a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3M12 13.813c.395 0 .79.054 1 .187.95.59 3 2.883 3 4 0 .559-1.328 1.781-2 2-.953.309-3.047.309-4 0-.672-.219-2-1.441-2-2 0-1.117 2.05-3.41 3-4 .21-.133.605-.187 1-.187M11 17c-.363 0-.57.43-.312.688l1.03 1.218c.16.16.403.16.563 0l1.031-1.218C13.57 17.43 13.364 17 13 17Z"}]}],["$","text",null,{"fill":"hsl(var(--background))","data-text-alignment":"C","fontFamily":"Fira Mono","fontSize":14,"fontWeight":700,"letterSpacing":0.81,"transform":"translate(-4 33)","children":["$","tspan",null,{"x":17.07,"y":17,"children":"XCYY"}]}],["$","circle",null,{"cx":32,"cy":32,"r":30,"stroke":"hsl(var(--primary))","strokeWidth":2}]]}]}]}],["$","span",null,{"className":"text-primary","children":"新宸悦雨"}]]}],["$","$L9",null,{}]]}],["$","nav",null,{"className":"flex items-center space-x-2","children":[["$","$La",null,{}],["$","$Lb",null,{}],["$","div",null,{"className":"md:hidden","children":["$","$Lc",null,{}]}]]}]]}]}],["$","main",null,{"className":"container max-w-screen-2xl py-6","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]]}]}]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f8ad259a7d5c0bf2.css","precedence":"next","crossOrigin":"$undefined"}]],"$Ld"]]]]
+e:I[789,["257","static/chunks/257-d6408e43d3a4c1f7.js","472","static/chunks/app/post/%5Bcategory%5D/%5Btitle%5D/page-bb1b5c27d30bc491.js"],"default"]
+f:T18ea,
+<h2 id="介绍">介绍</h2>
+<p>页面主要使用如下工具：</p>
+<ul>
+<li>next 14.2.3 框架</li>
+<li>tailwindcss 3.4.1 样式</li>
+<li>shadcn ui 0.8.0 组件</li>
+<li>remark 解析.md文件</li>
+</ul>
+<p>由nextjs开发页面，使用静态导出技术导出静态页面后，提交到github用github pages功能托管整个站点内容。</p>
+<h2 id="nextjs静态导出及部署">nextjs静态导出及部署</h2>
+<p>在 next.config.mjs 文件中配置 distDir 和 output 目录，执行next build命令即可。</p>
+<pre><code class="hljs language-javascript"><span class="hljs-comment">/*next.config.mjs*/</span>
+<span class="hljs-keyword">const</span> nextConfig = {
+  <span class="hljs-attr">distDir</span>: process.<span class="hljs-property">env</span>.<span class="hljs-property">NODE_ENV</span>===<span class="hljs-string">'production'</span>?<span class="hljs-string">'txcyy.github.io'</span>:<span class="hljs-string">'.next'</span>,
+  ...(process.<span class="hljs-property">env</span>.<span class="hljs-property">export</span>?{<span class="hljs-attr">output</span>: <span class="hljs-string">'export'</span>}:{}),
+  ...otherConfig
+}
+
+<span class="hljs-comment">/*package.json*/</span>
+<span class="hljs-string">"scripts"</span>: {
+    <span class="hljs-string">"dev"</span>: <span class="hljs-string">"next dev"</span>,
+    <span class="hljs-string">"build"</span>: <span class="hljs-string">"next build"</span>,
+    <span class="hljs-string">"start"</span>: <span class="hljs-string">"next start"</span>,
+    <span class="hljs-string">"lint"</span>: <span class="hljs-string">"next lint"</span>,
+    <span class="hljs-string">"export"</span>: <span class="hljs-string">"node movePostImgToPublic.js &#x26;&#x26; set export=true &#x26;&#x26; next build &#x26;&#x26; start autoDeploy.bat"</span>
+  }
+</code></pre>
+<p>这里自定义了export命令，增加了一些发布相关的脚本。其中</p>
+<p>movePostImgToPublic.js用于将.md文件中用到的图片移动到public目录</p>
+<p>autoDeploy.bat用于进入到disDir对应的目录执行git相关命令，用于自动将构建出的静态页面push到github page项目上。</p>
+<p>在使用静态导出时，需要使用generateStaticProps方法生成 动态路由 所定义的所有页面。</p>
+<pre><code class="hljs language-javascript"><span class="hljs-comment">// 例如了/post/[postTitle]/page.js路由，那么这个page.js中应该用generateStaticProps方法导出所有post</span>
+
+<span class="hljs-keyword">export</span> <span class="hljs-keyword">function</span> <span class="hljs-title function_">generateStaticProps</span>(<span class="hljs-params"></span>){
+    <span class="hljs-comment">// nextjs根据allPost生成所有页面，例如allPost=['a','b','c']，则对应生成/post/a.html,/post/b.html,/post/c.html</span>
+    <span class="hljs-keyword">return</span> allPost
+}
+
+<span class="hljs-keyword">export</span> <span class="hljs-keyword">default</span> <span class="hljs-keyword">function</span> <span class="hljs-title function_">Post</span>(<span class="hljs-params"></span>){
+    
+    <span class="hljs-keyword">return</span> <span class="xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">PostContent</span>/></span></span>
+}
+</code></pre>
+<h2 id="shadcn-ui配置主题样式">shadcn ui配置主题样式</h2>
+<p>shadcn提供Light、Dark两种主题。主题样式的配置放在components.json文件中，由于项目使用tailwindcss，因此在tailwind配置项中。</p>
+<pre><code class="hljs language-json"><span class="hljs-attr">"tailwind"</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+    <span class="hljs-attr">"config"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"tailwind.config.ts"</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"css"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"src/app/globals.css"</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"baseColor"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"slate"</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"cssVariables"</span><span class="hljs-punctuation">:</span> <span class="hljs-literal"><span class="hljs-keyword">true</span></span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"prefix"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">""</span>
+  <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+</code></pre>
+<p>css：定义样式存放的文件，内容分别放在:root{} .dark{}两个选择器里，对应light、dark两种主题下需要使用的一系列css变量。</p>
+<p>config：与tailwind结合预定义了一些自定义样式类等，例如定义primary颜色{primary: hsl(var(--primary))}， 那么就可以在页面中使用text-primary、bg-primary等类名，而tailwindcss原本是不存在text-primary这个样式类定义的。这样做相当于将变量的作用运用到了class类名上，从而使拥有相同类名的元素达到样式的统一及批量修改。</p>
+<p>baseColor：slate是引入shadcn时选择的，选择之后不可修改，用于定义:root{} .dark{}里的css变量值。如果需要切换颜色，修改这里是没有作用的，需要直接修改:root{} .dark{}内的css变量值。</p>
+<p>如果需要动态切换颜色，则需要动态添加颜色class，同时在globals.css文件中添加配套的CSS变量。例如需要添加blue颜色，那么需要动态设置<code>&#x3C;html class="blue"></code>，然后在globals.css文件中添加配套变量:root.blue{} .dark.blue{}</p>
+<h2 id="访问页面时报错error-connection-closed">访问页面时报错Error: Connection closed.</h2>
+<p>这个问题是随机出现的，每次访问同一个页面可能正常也可能报错。目前不清楚原因及如何解决。相关的<a href="https://github.com/vercel/next.js/issues/52824">github issues</a></p>
+<h2 id="在appsitemapts使用sitemap时报错error-attempted-to-call-map-from-the-server-but-map-is-on-the-client">在app/sitemap.ts使用sitemap时报错Error: Attempted to call map() from the server but map is on the client</h2>
+<p>这是因为在这个文件中导入了<code>client component</code>的内容</p>2:["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-semibold","children":"个人网站搭建记录"}],["$","div",null,{"className":"fixed right-12 bottom-20 ","children":["$","$Le",null,{"toc":"\n<ul>\n<li><a href=\"#%E4%BB%8B%E7%BB%8D\">介绍</a></li>\n<li><a href=\"#nextjs%E9%9D%99%E6%80%81%E5%AF%BC%E5%87%BA%E5%8F%8A%E9%83%A8%E7%BD%B2\">nextjs静态导出及部署</a></li>\n<li><a href=\"#shadcn-ui%E9%85%8D%E7%BD%AE%E4%B8%BB%E9%A2%98%E6%A0%B7%E5%BC%8F\">shadcn ui配置主题样式</a></li>\n<li><a href=\"#%E8%AE%BF%E9%97%AE%E9%A1%B5%E9%9D%A2%E6%97%B6%E6%8A%A5%E9%94%99error-connection-closed\">访问页面时报错Error: Connection closed.</a></li>\n<li><a href=\"#%E5%9C%A8appsitemapts%E4%BD%BF%E7%94%A8sitemap%E6%97%B6%E6%8A%A5%E9%94%99error-attempted-to-call-map-from-the-server-but-map-is-on-the-client\">在app/sitemap.ts使用sitemap时报错Error: Attempted to call map() from the server but map is on the client</a></li>\n</ul>"}]}],["$","div",null,{"className":"page_content__nM6Lc","dangerouslySetInnerHTML":{"__html":"$f"}}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"文章 | 个人网站搭建记录"}],["$","meta","3",{"name":"description","content":"新宸悦雨 博客 网站 个人网站"}],["$","meta","4",{"name":"google-site-verification","content":"LiZ4kQwHGTLadwCnDnrXngpwNqoQjmFOCOVTtr_PWVo"}],["$","link","5",{"rel":"icon","href":"/icon.svg?d2cf70afa15ddfd8","type":"image/svg+xml","sizes":"any"}]]
+1:null
